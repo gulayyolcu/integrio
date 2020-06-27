@@ -1,0 +1,13 @@
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/fontawesome.css
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+
+font-family: 'Source Sans Pro', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Ubuntu&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Raleway|Source+Sans+Pro|Ubuntu&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Raleway|Rubik|Source+Sans+Pro|Ubuntu&display=swap" rel="stylesheet">
